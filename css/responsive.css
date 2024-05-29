@@ -1,0 +1,27 @@
+@media screen and (width <= 714px) {
+    footer {
+        justify-content: center;
+    }
+}
+
+@media screen and (width <= 456px) {
+    footer {
+        div {
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+    }
+
+}
+@media screen and (max-width: 614px) {
+    main #input-wrapper {
+        transform: scaleX(75%);
+            div{
+                transform: scaleX(125%);
+            }
+    }
+
+    main #logo-container{
+        height: 144px;
+     }
+}
