@@ -19,7 +19,7 @@ Note: This is not an official Google product and is not intended for public use.
 
 You can visit the live version of this project by clicking the link below:
 
-[Google.lk Clone Experiment](link)
+[Google.lk Clone Experiment](https://ravindya.github.io/google.lk-clone-experiment/)
 
 
 ## Screenshots
@@ -30,7 +30,7 @@ You can visit the live version of this project by clicking the link below:
 
 ### Prerequisites:
 
-Clone this repository using git clone [link].
+Clone this repository using git clone [https://ravindya.github.io/google.lk-clone-experiment/].
 Ensure you have the necessary development tools installed (e.g., Node.js, npm).
 ### Installation:
 
